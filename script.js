@@ -31,17 +31,31 @@ function hideModal() {
     d3.select("#modal").style("display", "none");
 }
 
-
+// Define a logarithmic color scale
+const color = d3.scaleLog()
+    .domain([100, 10000000])  // Adjust the domain according to your field values
+    .range(["#ccc", "#ff4500"]);  // Color range from light to dark
 
 // Load external data and boot
-d3.json("world-map.geojson").then( function(data) {
+d3.json("./data/world-map.geojson").then( function(data) {
+    d3.json("./data/subreddit_counts.json").then(function(info) {
+
+    // Map to color scale
+    const dataMap = new Map(info.map(i => [i.country, +i.members]));
 
     // Draw the map
     svg.append("g")
         .selectAll("path")
         .data(data.features)
         .join("path")
-            .attr("fill", "orange")
+            .attr("fill", function(d) {
+                // Get the field value for the country
+                const value = dataMap.get(d.properties.name);
+                // Return the corresponding color
+                return value ? color(value) : "#ccc";  // Default color for missing data
+            }
+
+            )
             .attr("d", d3.geoPath()
             .projection(projection)
             )
@@ -66,5 +80,5 @@ d3.json("world-map.geojson").then( function(data) {
                 tooltip.transition().duration(200).style("opacity", 0);
                 hideModal();
             });
-
+    })
 })
