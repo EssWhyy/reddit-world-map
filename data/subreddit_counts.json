@@ -1,0 +1,887 @@
+[
+ {
+   "Country": "Afghanistan",
+   "Subreddit": "afghanistan",
+   "Member Count": 34950
+ },
+ {
+   "Country": "Angola",
+   "Subreddit": "angola",
+   "Member Count": 2833
+ },
+ {
+   "Country": "Albania",
+   "Subreddit": "albania",
+   "Member Count": 71851
+ },
+ {
+   "Country": "United Arab Emirates",
+   "Subreddit": "uae",
+   "Member Count": 117442
+ },
+ {
+   "Country": "Argentina",
+   "Subreddit": "argentina",
+   "Member Count": 1014975
+ },
+ {
+   "Country": "Armenia",
+   "Subreddit": "armenia",
+   "Member Count": 50606
+ },
+ {
+   "Country": "Antarctica",
+   "Subreddit": "antarctica",
+   "Member Count": 26215
+ },
+ {
+   "Country": "French Southern and Antarctic Lands",
+   "Subreddit": "",
+   "Member Count": 0
+ },
+ {
+   "Country": "Australia",
+   "Subreddit": "australia",
+   "Member Count": 1895585
+ },
+ {
+   "Country": "Austria",
+   "Subreddit": "austria",
+   "Member Count": 534864
+ },
+ {
+   "Country": "Azerbaijan",
+   "Subreddit": "azerbaijan",
+   "Member Count": 75120
+ },
+ {
+   "Country": "Burundi",
+   "Subreddit": "burundi",
+   "Member Count": 848
+ },
+ {
+   "Country": "Belgium",
+   "Subreddit": "belgium",
+   "Member Count": 316592
+ },
+ {
+   "Country": "Benin",
+   "Subreddit": "benin",
+   "Member Count": 732
+ },
+ {
+   "Country": "Burkina Faso",
+   "Subreddit": "burkinafaso",
+   "Member Count": 1133
+ },
+ {
+   "Country": "Bangladesh",
+   "Subreddit": "bangladesh",
+   "Member Count": 60602
+ },
+ {
+   "Country": "Bulgaria",
+   "Subreddit": "bulgaria",
+   "Member Count": 235887
+ },
+ {
+   "Country": "The Bahamas",
+   "Subreddit": "bahamas",
+   "Member Count": 17822
+ },
+ {
+   "Country": "Bosnia and Herzegovina",
+   "Subreddit": "bih",
+   "Member Count": 57473
+ },
+ {
+   "Country": "Belarus",
+   "Subreddit": "belarus",
+   "Member Count": 22369
+ },
+ {
+   "Country": "Belize",
+   "Subreddit": "belize",
+   "Member Count": 16281
+ },
+ {
+   "Country": "Bolivia",
+   "Subreddit": "bolivia",
+   "Member Count": 37607
+ },
+ {
+   "Country": "Brazil",
+   "Subreddit": "brazil",
+   "Member Count": 103979
+ },
+ {
+   "Country": "Brunei",
+   "Subreddit": "brunei",
+   "Member Count": 129446
+ },
+ {
+   "Country": "Bhutan",
+   "Subreddit": "bhutan",
+   "Member Count": 3896
+ },
+ {
+   "Country": "Botswana",
+   "Subreddit": "botswana",
+   "Member Count": 4181
+ },
+ {
+   "Country": "Central African Republic",
+   "Subreddit": "car_",
+   "Member Count": 199
+ },
+ {
+   "Country": "Canada",
+   "Subreddit": "canada",
+   "Member Count": 2603653
+ },
+ {
+   "Country": "Switzerland",
+   "Subreddit": "switzerland",
+   "Member Count": 429045
+ },
+ {
+   "Country": "Chile",
+   "Subreddit": "chile",
+   "Member Count": 618194
+ },
+ {
+   "Country": "China",
+   "Subreddit": "china",
+   "Member Count": 489669
+ },
+ {
+   "Country": "Ivory Coast",
+   "Subreddit": "cotedivoire",
+   "Member Count": 732
+ },
+ {
+   "Country": "Cameroon",
+   "Subreddit": "cameroon",
+   "Member Count": 6536
+ },
+ {
+   "Country": "Democratic Republic of the Congo",
+   "Subreddit": "congo",
+   "Member Count": 3867
+ },
+ {
+   "Country": "Republic of the Congo",
+   "Subreddit": "republicofcongo",
+   "Member Count": 297
+ },
+ {
+   "Country": "Colombia",
+   "Subreddit": "colombia",
+   "Member Count": 586743
+ },
+ {
+   "Country": "Costa Rica",
+   "Subreddit": "costarica",
+   "Member Count": 69367
+ },
+ {
+   "Country": "Cuba",
+   "Subreddit": "cuba",
+   "Member Count": 102557
+ },
+ {
+   "Country": "Northern Cyprus",
+   "Subreddit": "",
+   "Member Count": 0
+ },
+ {
+   "Country": "Cyprus",
+   "Subreddit": "cyprus",
+   "Member Count": 41273
+ },
+ {
+   "Country": "Czech Republic",
+   "Subreddit": "czechia",
+   "Member Count": 455
+ },
+ {
+   "Country": "Germany",
+   "Subreddit": "germany",
+   "Member Count": 839590
+ },
+ {
+   "Country": "Djibouti",
+   "Subreddit": "djibouti",
+   "Member Count": 954
+ },
+ {
+   "Country": "Denmark",
+   "Subreddit": "de",
+   "Member Count": 2135309
+ },
+ {
+   "Country": "Dominican Republic",
+   "Subreddit": "dominicanrepublic",
+   "Member Count": 1440
+ },
+ {
+   "Country": "Algeria",
+   "Subreddit": "algeria",
+   "Member Count": 92556
+ },
+ {
+   "Country": "Ecuador",
+   "Subreddit": "ecuador",
+   "Member Count": 54168
+ },
+ {
+   "Country": "Egypt",
+   "Subreddit": "egypt",
+   "Member Count": 229342
+ },
+ {
+   "Country": "Eritrea",
+   "Subreddit": "eritrea",
+   "Member Count": 5270
+ },
+ {
+   "Country": "Spain",
+   "Subreddit": "spain",
+   "Member Count": 741231
+ },
+ {
+   "Country": "Estonia",
+   "Subreddit": "eesti",
+   "Member Count": 86608
+ },
+ {
+   "Country": "Ethiopia",
+   "Subreddit": "ethiopia",
+   "Member Count": 24136
+ },
+ {
+   "Country": "Finland",
+   "Subreddit": "suomi",
+   "Member Count": 448055
+ },
+ {
+   "Country": "Fiji",
+   "Subreddit": "fiji",
+   "Member Count": 1241
+ },
+ {
+   "Country": "Falkland Islands",
+   "Subreddit": "falklandislands",
+   "Member Count": 21086
+ },
+ {
+   "Country": "France",
+   "Subreddit": "france",
+   "Member Count": 1815212
+ },
+ {
+   "Country": "Gabon",
+   "Subreddit": "gabon",
+   "Member Count": 591
+ },
+ {
+   "Country": "England",
+   "Subreddit": "england",
+   "Member Count": 229787
+ },
+ {
+   "Country": "Georgia",
+   "Subreddit": "georgia",
+   "Member Count": 203726
+ },
+ {
+   "Country": "Ghana",
+   "Subreddit": "ghana",
+   "Member Count": 58693
+ },
+ {
+   "Country": "Guinea",
+   "Subreddit": "guinea",
+   "Member Count": 590
+ },
+ {
+   "Country": "Gambia",
+   "Subreddit": "gambia",
+   "Member Count": 1427
+ },
+ {
+   "Country": "Guinea Bissau",
+   "Subreddit": "guineabissau",
+   "Member Count": 421
+ },
+ {
+   "Country": "Equatorial Guinea",
+   "Subreddit": "equatorialguinea",
+   "Member Count": 465
+ },
+ {
+   "Country": "Greece",
+   "Subreddit": "greece",
+   "Member Count": 246612
+ },
+ {
+   "Country": "Greenland",
+   "Subreddit": "greenland",
+   "Member Count": 6717
+ },
+ {
+   "Country": "Guatemala",
+   "Subreddit": "guatemala",
+   "Member Count": 138155
+ },
+ {
+   "Country": "Guyana",
+   "Subreddit": "guyana",
+   "Member Count": 8362
+ },
+ {
+   "Country": "Honduras",
+   "Subreddit": "honduras",
+   "Member Count": 23283
+ },
+ {
+   "Country": "Croatia",
+   "Subreddit": "croatia",
+   "Member Count": 320338
+ },
+ {
+   "Country": "Haiti",
+   "Subreddit": "haiti",
+   "Member Count": 15413
+ },
+ {
+   "Country": "Hungary",
+   "Subreddit": "hungary",
+   "Member Count": 469967
+ },
+ {
+   "Country": "Indonesia",
+   "Subreddit": "indonesia",
+   "Member Count": 551083
+ },
+ {
+   "Country": "India",
+   "Subreddit": "india",
+   "Member Count": 2406649
+ },
+ {
+   "Country": "Ireland",
+   "Subreddit": "ireland",
+   "Member Count": 911304
+ },
+ {
+   "Country": "Iran",
+   "Subreddit": "iran",
+   "Member Count": 86540
+ },
+ {
+   "Country": "Iraq",
+   "Subreddit": "iraq",
+   "Member Count": 83955
+ },
+ {
+   "Country": "Iceland",
+   "Subreddit": "iceland",
+   "Member Count": 88911
+ },
+ {
+   "Country": "Israel",
+   "Subreddit": "israel",
+   "Member Count": 223593
+ },
+ {
+   "Country": "Italy",
+   "Subreddit": "italy",
+   "Member Count": 929364
+ },
+ {
+   "Country": "Jamaica",
+   "Subreddit": "jamaica",
+   "Member Count": 48330
+ },
+ {
+   "Country": "Jordan",
+   "Subreddit": "jordan",
+   "Member Count": 81776
+ },
+ {
+   "Country": "Japan",
+   "Subreddit": "japan",
+   "Member Count": 1086593
+ },
+ {
+   "Country": "Kazakhstan",
+   "Subreddit": "kazakhstan",
+   "Member Count": 31653
+ },
+ {
+   "Country": "Kenya",
+   "Subreddit": "kenya",
+   "Member Count": 149859
+ },
+ {
+   "Country": "Kyrgyzstan",
+   "Subreddit": "kyrgyzstan",
+   "Member Count": 7819
+ },
+ {
+   "Country": "Cambodia",
+   "Subreddit": "cambodia",
+   "Member Count": 119967
+ },
+ {
+   "Country": "South Korea",
+   "Subreddit": "korea",
+   "Member Count": 846404
+ },
+ {
+   "Country": "Kosovo",
+   "Subreddit": "kosovo",
+   "Member Count": 39876
+ },
+ {
+   "Country": "Kuwait",
+   "Subreddit": "kuwait",
+   "Member Count": 63546
+ },
+ {
+   "Country": "Laos",
+   "Subreddit": "laos",
+   "Member Count": 8198
+ },
+ {
+   "Country": "Lebanon",
+   "Subreddit": "lebanon",
+   "Member Count": 110296
+ },
+ {
+   "Country": "Liberia",
+   "Subreddit": "liberia",
+   "Member Count": 1531
+ },
+ {
+   "Country": "Libya",
+   "Subreddit": "libya",
+   "Member Count": 14006
+ },
+ {
+   "Country": "Sri Lanka",
+   "Subreddit": "srilanka",
+   "Member Count": 100704
+ },
+ {
+   "Country": "Lesotho",
+   "Subreddit": "lesotho",
+   "Member Count": 3262
+ },
+ {
+   "Country": "Lithuania",
+   "Subreddit": "lithuania",
+   "Member Count": 107176
+ },
+ {
+   "Country": "Luxembourg",
+   "Subreddit": "luxembourg",
+   "Member Count": 38715
+ },
+ {
+   "Country": "Latvia",
+   "Subreddit": "latvia",
+   "Member Count": 54962
+ },
+ {
+   "Country": "Morocco",
+   "Subreddit": "morocco",
+   "Member Count": 161939
+ },
+ {
+   "Country": "Moldova",
+   "Subreddit": "moldova",
+   "Member Count": 79810
+ },
+ {
+   "Country": "Madagascar",
+   "Subreddit": "madagascar",
+   "Member Count": 3006
+ },
+ {
+   "Country": "Mexico",
+   "Subreddit": "mexico",
+   "Member Count": 1969511
+ },
+ {
+   "Country": "Macedonia",
+   "Subreddit": "macedonia",
+   "Member Count": 6663
+ },
+ {
+   "Country": "Mali",
+   "Subreddit": "mali",
+   "Member Count": 1602
+ },
+ {
+   "Country": "Myanmar",
+   "Subreddit": "myanmar",
+   "Member Count": 26775
+ },
+ {
+   "Country": "Montenegro",
+   "Subreddit": "montenegro",
+   "Member Count": 21714
+ },
+ {
+   "Country": "Mongolia",
+   "Subreddit": "mongolia",
+   "Member Count": 57934
+ },
+ {
+   "Country": "Mozambique",
+   "Subreddit": "mozambique",
+   "Member Count": 2176
+ },
+ {
+   "Country": "Mauritania",
+   "Subreddit": "mauritania",
+   "Member Count": 1380
+ },
+ {
+   "Country": "Malawi",
+   "Subreddit": "malawi",
+   "Member Count": 1373
+ },
+ {
+   "Country": "Malaysia",
+   "Subreddit": "malaysia",
+   "Member Count": 779260
+ },
+ {
+   "Country": "Namibia",
+   "Subreddit": "namibia",
+   "Member Count": 9431
+ },
+ {
+   "Country": "New Caledonia",
+   "Subreddit": "newcaledonia",
+   "Member Count": 51
+ },
+ {
+   "Country": "Niger",
+   "Subreddit": "niger",
+   "Member Count": 1071
+ },
+ {
+   "Country": "Nigeria",
+   "Subreddit": "nigeria",
+   "Member Count": 110131
+ },
+ {
+   "Country": "Nicaragua",
+   "Subreddit": "nicaragua",
+   "Member Count": 25835
+ },
+ {
+   "Country": "Netherlands",
+   "Subreddit": "thenetherlands",
+   "Member Count": 1154249
+ },
+ {
+   "Country": "Norway",
+   "Subreddit": "norway",
+   "Member Count": 414184
+ },
+ {
+   "Country": "Nepal",
+   "Subreddit": "nepal",
+   "Member Count": 159344
+ },
+ {
+   "Country": "New Zealand",
+   "Subreddit": "newzealand",
+   "Member Count": 600307
+ },
+ {
+   "Country": "Oman",
+   "Subreddit": "oman",
+   "Member Count": 27719
+ },
+ {
+   "Country": "Pakistan",
+   "Subreddit": "pakistan",
+   "Member Count": 221704
+ },
+ {
+   "Country": "Panama",
+   "Subreddit": "panama",
+   "Member Count": 126957
+ },
+ {
+   "Country": "Peru",
+   "Subreddit": "peru",
+   "Member Count": 309063
+ },
+ {
+   "Country": "Philippines",
+   "Subreddit": "philippines",
+   "Member Count": 1894696
+ },
+ {
+   "Country": "Papua New Guinea",
+   "Subreddit": "papuanewguinea",
+   "Member Count": 1497
+ },
+ {
+   "Country": "Poland",
+   "Subreddit": "poland",
+   "Member Count": 845734
+ },
+ {
+   "Country": "Puerto Rico",
+   "Subreddit": "puertorico",
+   "Member Count": 169825
+ },
+ {
+   "Country": "North Korea",
+   "Subreddit": "northkorea",
+   "Member Count": 44928
+ },
+ {
+   "Country": "Portugal",
+   "Subreddit": "portugal",
+   "Member Count": 545234
+ },
+ {
+   "Country": "Paraguay",
+   "Subreddit": "paraguay",
+   "Member Count": 103425
+ },
+ {
+   "Country": "Qatar",
+   "Subreddit": "qatar",
+   "Member Count": 74684
+ },
+ {
+   "Country": "Romania",
+   "Subreddit": "romania",
+   "Member Count": 825150
+ },
+ {
+   "Country": "Russia",
+   "Subreddit": "",
+   "Member Count": 0
+ },
+ {
+   "Country": "Rwanda",
+   "Subreddit": "rwanda",
+   "Member Count": 5983
+ },
+ {
+   "Country": "Western Sahara",
+   "Subreddit": "westernsahara",
+   "Member Count": 506
+ },
+ {
+   "Country": "Saudi Arabia",
+   "Subreddit": "saudiarabia",
+   "Member Count": 149274
+ },
+ {
+   "Country": "Sudan",
+   "Subreddit": "sudan",
+   "Member Count": 16339
+ },
+ {
+   "Country": "South Sudan",
+   "Subreddit": "southsudan",
+   "Member Count": 951
+ },
+ {
+   "Country": "Senegal",
+   "Subreddit": "senegal",
+   "Member Count": 14988
+ },
+ {
+   "Country": "Solomon Islands",
+   "Subreddit": "solomonislands",
+   "Member Count": 173
+ },
+ {
+   "Country": "Sierra Leone",
+   "Subreddit": "sierraleone",
+   "Member Count": 1374
+ },
+ {
+   "Country": "El Salvador",
+   "Subreddit": "elsalvador",
+   "Member Count": 66190
+ },
+ {
+   "Country": "Somaliland",
+   "Subreddit": "somaliland",
+   "Member Count": 3666
+ },
+ {
+   "Country": "Somalia",
+   "Subreddit": "somalia",
+   "Member Count": 33200
+ },
+ {
+   "Country": "Republic of Serbia",
+   "Subreddit": "republicofserbia",
+   "Member Count": 307718
+ },
+ {
+   "Country": "Suriname",
+   "Subreddit": "suriname",
+   "Member Count": 3167
+ },
+ {
+   "Country": "Slovakia",
+   "Subreddit": "slovakia",
+   "Member Count": 203494
+ },
+ {
+   "Country": "Slovenia",
+   "Subreddit": "slovenia",
+   "Member Count": 85462
+ },
+ {
+   "Country": "Sweden",
+   "Subreddit": "sweden",
+   "Member Count": 741626
+ },
+ {
+   "Country": "Swaziland",
+   "Subreddit": "swaziland",
+   "Member Count": 866
+ },
+ {
+   "Country": "Syria",
+   "Subreddit": "syria",
+   "Member Count": 19578
+ },
+ {
+   "Country": "Chad",
+   "Subreddit": "republicofchad",
+   "Member Count": 211
+ },
+ {
+   "Country": "Togo",
+   "Subreddit": "togo",
+   "Member Count": 751
+ },
+ {
+   "Country": "Thailand",
+   "Subreddit": "thailand",
+   "Member Count": 490816
+ },
+ {
+   "Country": "Tajikistan",
+   "Subreddit": "tajikistan",
+   "Member Count": 3156
+ },
+ {
+   "Country": "Turkmenistan",
+   "Subreddit": "turkmenistan",
+   "Member Count": 4680
+ },
+ {
+   "Country": "East Timor",
+   "Subreddit": "timor",
+   "Member Count": 628
+ },
+ {
+   "Country": "Trinidad and Tobago",
+   "Subreddit": "trinidadandtobago",
+   "Member Count": 23555
+ },
+ {
+   "Country": "Tunisia",
+   "Subreddit": "tunisia",
+   "Member Count": 72839
+ },
+ {
+   "Country": "Turkey",
+   "Subreddit": "turkey",
+   "Member Count": 1041950
+ },
+ {
+   "Country": "Taiwan",
+   "Subreddit": "taiwan",
+   "Member Count": 458417
+ },
+ {
+   "Country": "United Republic of Tanzania",
+   "Subreddit": "tanzania",
+   "Member Count": 11569
+ },
+ {
+   "Country": "Uganda",
+   "Subreddit": "uganda",
+   "Member Count": 15882
+ },
+ {
+   "Country": "Ukraine",
+   "Subreddit": "ukraine",
+   "Member Count": 906364
+ },
+ {
+   "Country": "Uruguay",
+   "Subreddit": "uruguay",
+   "Member Count": 146653
+ },
+ {
+   "Country": "USA",
+   "Subreddit": "news",
+   "Member Count": 28065900
+ },
+ {
+   "Country": "Uzbekistan",
+   "Subreddit": "uzbekistan",
+   "Member Count": 7614
+ },
+ {
+   "Country": "Venezuela",
+   "Subreddit": "venezuela",
+   "Member Count": 32606
+ },
+ {
+   "Country": "Vietnam",
+   "Subreddit": "vietnam",
+   "Member Count": 936022
+ },
+ {
+   "Country": "Vanuatu",
+   "Subreddit": "vanuatu",
+   "Member Count": 930
+ },
+ {
+   "Country": "West Bank",
+   "Subreddit": "westbank",
+   "Member Count": 126
+ },
+ {
+   "Country": "Yemen",
+   "Subreddit": "yemen",
+   "Member Count": 23289
+ },
+ {
+   "Country": "South Africa",
+   "Subreddit": "southafrica",
+   "Member Count": 234676
+ },
+ {
+   "Country": "Zambia",
+   "Subreddit": "zambia",
+   "Member Count": 12624
+ },
+ {
+   "Country": "Zimbabwe",
+   "Subreddit": "zimbabwe",
+   "Member Count": 17326
+ }
+]
