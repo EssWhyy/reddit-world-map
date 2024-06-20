@@ -41,7 +41,8 @@ d3.json("./data/world-map.geojson").then( function(data) {
     d3.json("./data/subreddit_counts.json").then(function(info) {
 
     // Map to color scale
-    const dataMap = new Map(info.map(i => [i.country, +i.members]));
+    const memberCountMap = new Map(info.map(i => [i.country, +i.members]));
+    const urlMap = new Map(info.map(i => [i.country, i.subreddit]));
 
     // Draw the map
     svg.append("g")
@@ -50,7 +51,7 @@ d3.json("./data/world-map.geojson").then( function(data) {
         .join("path")
             .attr("fill", function(d) {
                 // Get the field value for the country
-                const value = dataMap.get(d.properties.name);
+                const value = memberCountMap.get(d.properties.name);
                 // Return the corresponding color
                 return value ? color(value) : "#ccc";  // Default color for missing data
             }
@@ -64,7 +65,9 @@ d3.json("./data/world-map.geojson").then( function(data) {
                 
                 // Modal Data
                 const countryName = d.properties.name; 
-                const modalContent = `<strong>${countryName}</strong>`;
+                const modalContent = `<strong>${countryName}</strong>
+                <br>
+                <italics>r/</italics>`;
 
                 d3.select(event.currentTarget).style("fill", "lightsalmon");
                 tooltip.transition().duration(200).style("opacity", .5);
@@ -79,6 +82,13 @@ d3.json("./data/world-map.geojson").then( function(data) {
                 d3.select(event.currentTarget).style("fill", "");
                 tooltip.transition().duration(200).style("opacity", 0);
                 hideModal();
-            });
+            })
+            .on("click", function(event, d) {
+                // Get the URL for the clicked country
+                const subreddit = urlMap.get(d.properties.name);
+                    // Open the URL in a new tab
+                const url = "https://www.reddit.com/r/" + subreddit
+                window.open(url, "_blank");
+            })
+        });;
     })
-})
